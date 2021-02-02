@@ -1,0 +1,14 @@
+
+ .recipe-textbox {
+  max-width: 500px;
+  height: 200px;
+}
+
+.post-subheaders{
+  font-weight: 600;
+}
+
+.submit-button{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
